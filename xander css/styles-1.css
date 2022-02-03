@@ -1,0 +1,74 @@
+body{
+    font-family: Nunito;
+}
+.xancard{
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.card-element{
+    margin-bottom: 8px;
+}
+.cart-total{
+    font-weight: bold;
+}
+.cart-item-title{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: regular;
+    font-size: 18px;
+    padding-right: 16px;
+}
+.price{
+    font-size: 36px;
+    color: rgba(0, 0, 0, 0.55);
+}
+.total.price{
+    font-size: 36px;
+    padding-right: 12px;
+    color: #56595C;
+}
+.cart-edit{
+    background: #F9F8F8;
+    box-shadow: inset 0px 4px 10px rgba(0, 0, 0, 0.04);
+    padding-left: 9px;
+}
+.row.remove{
+    padding-left: 0px !important;
+    color: rgba(255, 51, 51, 0.55);
+}
+.padded-cards{
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.rounded-pill{
+    background: #EA722E !important;
+}
+.text-primary.green{
+    color: #006A50 !important;
+}
+.btn{
+    background:#EA722E !important;
+    border-color: #EA722E;
+}
+.line{
+    border-color: #006A50;
+    border: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 1px;
+}
+.total{
+    border-top: 0px;
+}
+.sumname{
+    color: rgba(0, 0, 0, 0.65);
+}
+.nobottom{
+    border-bottom: transparent;
+}
+borderbox{
+    border: 1px solid rgba(0, 0, 0, 0.25) !important;
+}
